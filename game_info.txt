@@ -1,0 +1,13 @@
+##-> Number Guessing Game <-##
+Score count criteria: 
+Total Points = (10 * Total Rounds) - Total Guesses + Total Rounds
+
+====================X====================
+Game Summary:
+-> Player name: fidbi
+-> Total rounds played: 10
+-> Total attempts In today's game: 60
+-> Total points: 50
+-> Average: 5
+-> Grade: C
+====================X====================
